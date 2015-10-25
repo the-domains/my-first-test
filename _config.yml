@@ -1,0 +1,23 @@
+name: 'My first test!'
+favicon: null
+layout_spectrum: 0.365970907965675
+typography_spectrum: 0.010940023930743337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.11260182759724557
+  lightness: 0.8866071517113596
+  saturation: 0.06257080775685608
+  rhythmicContrast: 0.30976024828851223
+purpose: []
