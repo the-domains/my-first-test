@@ -1,7 +1,7 @@
 name: 'My first test!'
 favicon: null
-layout_spectrum: 0.365970907965675
-typography_spectrum: 0.010940023930743337
+layout_spectrum: 1
+typography_spectrum: 0.3093
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d5d2d4'
-    - '#ebeaeb'
-    - '#272727'
-    - '#959495'
-    - '#5f5e5f'
-  brandStrength: 0.125
-  lightness: 0.8866071517113596
-  saturation: 0.06257080775685608
-  rhythmicContrast: 0.30976024828851223
+    - '#71c164'
+    - '#197b96'
+    - '#00ff00'
+    - '#000000'
+    - '#0000ff'
+  brandStrength: 0.1875
+  lightness: 0.6875
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
